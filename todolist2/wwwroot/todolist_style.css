@@ -1,0 +1,22 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: 'sans-serif';
+    background: linear-gradient(120deg,#2980b9,#8e44ad);
+    height: 100vh;
+    overflow: hidden;
+}
+
+h1,h2,h2,h4,p
+{
+    color:white;
+}
+tr {
+    background-color: white;
+    color: black;
+    font-size:20px;
+}
+
+.btn {
+    background-color: #4CAF50;
+}
